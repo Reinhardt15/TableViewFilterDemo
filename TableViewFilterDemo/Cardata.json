@@ -1,0 +1,164 @@
+[
+ {
+   "FIELD1": "Italy",
+   "FIELD2": "Italy",
+   "FIELD3": "Ferrari",
+   "FIELD4": "488",
+   "FIELD5": "S",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Italy",
+   "FIELD2": "Italy",
+   "FIELD3": "Fiat",
+   "FIELD4": "Panda",
+   "FIELD5": "B",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Italy",
+   "FIELD2": "Italy",
+   "FIELD3": "Fiat",
+   "FIELD4": "500X",
+   "FIELD5": "A",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Italy",
+   "FIELD2": "Italy",
+   "FIELD3": "Ferrari",
+   "FIELD4": "458",
+   "FIELD5": "S",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Italy",
+   "FIELD2": "Italy",
+   "FIELD3": "Lamborghini",
+   "FIELD4": "URUS",
+   "FIELD5": "S",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Italy",
+   "FIELD2": "Italy",
+   "FIELD3": "Lamborghini",
+   "FIELD4": "HURACAN",
+   "FIELD5": "S",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Germany",
+   "FIELD2": "Germany",
+   "FIELD3": "BMW",
+   "FIELD4": "BMW-1",
+   "FIELD5": "B",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Germany",
+   "FIELD2": "Germany",
+   "FIELD3": "BMW",
+   "FIELD4": "BMW-2",
+   "FIELD5": "B",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Germany",
+   "FIELD2": "Germany",
+   "FIELD3": "BMW",
+   "FIELD4": "BMW-3",
+   "FIELD5": "A",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Germany",
+   "FIELD2": "Germany",
+   "FIELD3": "BMW",
+   "FIELD4": "BMW-5",
+   "FIELD5": "A",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Germany",
+   "FIELD2": "Germany",
+   "FIELD3": "Benz",
+   "FIELD4": "C-Class",
+   "FIELD5": "A",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Germany",
+   "FIELD2": "Germany",
+   "FIELD3": "Benz",
+   "FIELD4": "E-Class",
+   "FIELD5": "S",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Germany",
+   "FIELD2": "Germany",
+   "FIELD3": "Audi",
+   "FIELD4": "Q3",
+   "FIELD5": "B",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Germany",
+   "FIELD2": "Germany",
+   "FIELD3": "Audi",
+   "FIELD4": "Q5",
+   "FIELD5": "A",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Germany",
+   "FIELD2": "Germany",
+   "FIELD3": "Audi",
+   "FIELD4": "A7",
+   "FIELD5": "S",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Japan",
+   "FIELD2": "Japan",
+   "FIELD3": "Toyota",
+   "FIELD4": "Camry",
+   "FIELD5": "B",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Japan",
+   "FIELD2": "Japan",
+   "FIELD3": "Toyota",
+   "FIELD4": "Camry Hibrid",
+   "FIELD5": "A",
+   "FIELD6": false,
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "Japan",
+   "FIELD2": "Japan",
+   "FIELD3": "Honda",
+   "FIELD4": "GTR",
+   "FIELD5": "S",
+   "FIELD6": false,
+   "FIELD7": ""
+ }
+]
